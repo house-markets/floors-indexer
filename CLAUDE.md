@@ -17,8 +17,8 @@ Anvil Node (Railway)     →    Envio Indexer (Hosted)    →    GraphQL API
 ### Contract Addresses (update when redeploying)
 ```yaml
 # config.yaml - networks section
-FloorFactory: 0xcec1f19cdb30145fdec0fa22fd62baa92bcd2b0c
-ModuleFactory: 0xd29ad337498cb049703504d00ab14e54cc9abf0b
+FloorFactory: 0x9d37C149580CBc32BB452ECe7108638120cFaBAd
+ModuleFactory: 0x9B0Aa230314e210eD40a725cA48EDeCBEB4891a6
 ```
 
 ### RPC Endpoint
