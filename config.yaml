@@ -117,9 +117,9 @@ networks:
       url: https://foundry-production-f209.up.railway.app
     contracts:
       - name: FloorFactory
-        address: '0x6863165605198cDCdf4bb985C1Cee5f3C93401Ba'
+        address: '0x4ccac8e23976fc9303fda7a06ff0487f42aad3e2'
       - name: ModuleFactory
-        address: '0x034B63C29E95a661142125a00902A72518182993'
+        address: '0x0E828078b7BE1c860F6800cCee74F37bd2f96288'
       - name: FloorMarket
         address:
       - name: CreditFacility
